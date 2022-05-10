@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web development
 - 📧 Email : hi_hayward@163.com
+
+
+ <br><br>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=WcxHayward&count_private=true&show_icons=true&title_color=79ff97&icon_color=2873F8&text_color=ffffff&bg_color=151515&hide=contribs" />
